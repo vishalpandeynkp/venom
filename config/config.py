@@ -118,14 +118,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT"
+    "SUPPORT_CHANNEL", "https://t.me/+Tx4Er_F5rTM5Y2Rl"
 )  # Example:- https://t.me/NOBITA_ALL_BOT
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/AVIATOR_LUCKY_JET_CASINO_1WIN"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/AVIATOR_LUCKY_JET_CASINO_1WIN"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -149,7 +149,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/vishalpandeynkp1/durgeshrepo")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/AVIATOR_LUCKY_JET_CASINO_1WIN")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
